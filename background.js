@@ -1,6 +1,6 @@
 // Called when the user clicks on the browser action
 chrome.browserAction.onClicked.addListener(function(tab) {
-    console.log('clicked icon' + isDisabled)
+  
      isDisabled = !isDisabled;
    chrome.tabs.query({active: true, currentWindow:true},
       function(tabs) {

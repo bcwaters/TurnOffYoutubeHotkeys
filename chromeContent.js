@@ -2,7 +2,7 @@
 /* src/chromeContent.js */
 chrome.runtime.onMessage.addListener(
    function(request, sender, sendResponse) {
-       console.log('remove request received : ' + request.remove)
+ 
       if( request.remove != undefined ) {
           if(!request.remove){
                removeYoutubeHotkeys();
