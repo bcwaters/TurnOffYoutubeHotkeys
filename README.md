@@ -2,7 +2,7 @@
 This is a simple extension that removes youtube hotkeys whenever on youtube.com
 
 ## Instructions
-Install the extension from chrome store or this directory and now hotkeys are disabled by default
+Install the extension from the [chrome store](https://chrome.google.com/webstore/detail/remove-youtube-hotkeys/ajabfhplebocnmdcejfleginmigkhjdj?authuser=3) or this directory and now hotkeys are disabled by default
 
 Click the icon to enable hotkeys again
 
