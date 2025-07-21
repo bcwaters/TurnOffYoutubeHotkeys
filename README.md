@@ -1,4 +1,5 @@
 # Remove Youtube Hotkeys
+Note: unmaintianed code for DOM manipulation. Still in use but unstable
 This is a simple extension that removes youtube hotkeys whenever on youtube.com
 
 ## Instructions
